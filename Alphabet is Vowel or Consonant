@@ -1,0 +1,13 @@
+ 2)2. Java program to check whether an alphabet is Vowel or Consonant.
+
+import java.io.*;
+Public class VowelConsonant{
+ Public static void main(String args[])
+  {
+     Static void Vowel_or_Consonant(char)
+     if(ch=='a'||ch=='e'||ch=='i'||ch=='0'||ch=='u')
+        System.out.println("It is Vowel");
+     else
+        System.out.println("It is consonant");
+   }
+}
