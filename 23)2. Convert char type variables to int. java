@@ -1,0 +1,15 @@
+Java program to convert char type variables to int
+
+import java.io.*;
+public class Main {
+ public static void main(String[] args)
+ {
+   char a ='4';
+   char b ='c';
+   int num1 = a;
+   int num2 = b;
+   
+   Sytem.out.println(num1);
+   System.out.println(num2);
+  }
+ }
