@@ -1,0 +1,16 @@
+Java program to convert int type variables to long
+
+import java.io.*;
+class Main {
+ public class static void main(String args[])
+ {
+   int a = 35;
+   int b = 12;
+   
+   long c = a;
+   long d = b;
+   
+   System.out.println(c);
+   System.out.println(d);
+  }
+ }
