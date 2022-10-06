@@ -1,0 +1,17 @@
+Java program to convert int type variables to String
+
+import java.io.*;
+public class Main {
+ public static void main(String args[])
+ {
+   int num1 = 34;
+   int num2 = 66;
+   
+   String str1 = String.valueOf(num1);
+   String str2 = String.valueOf(num2);
+   
+   System.out.println(str1);
+   System.out.println(str2);
+   
+   }
+}
