@@ -1,0 +1,19 @@
+import java.util.*;
+public class Main {
+  public static void main(String args[])
+  {
+   {
+     int i,n;
+   int[] array=new int[5];
+   int[] array2=new int[4];
+   System.out.println("enter the array Element");
+   Scanner sc= new Scanner(System.in);
+   for(i=0;i<Array.length;i++){
+   array[i]=sc.nextInt();
+   }
+   System.out.println("the array[i]");
+   
+  }
+  
+} 
+    
